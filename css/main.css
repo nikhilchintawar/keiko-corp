@@ -37,7 +37,9 @@
 
 }
 
-
+html{
+	scroll-behavior: smooth;
+}
 
 
 
